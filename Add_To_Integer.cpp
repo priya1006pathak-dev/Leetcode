@@ -17,4 +17,3 @@ cout << "answer is" << answer;
 
 }
 
-
