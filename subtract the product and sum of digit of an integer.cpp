@@ -45,3 +45,7 @@ int main(){
     int ans = subtractProductandSum(n);
     cout << ans;
 }
+
+
+
+

@@ -20,3 +20,7 @@ int main(){
     int ans = numberOfSteps(n);
     cout << ans;
 }
+
+
+
+
